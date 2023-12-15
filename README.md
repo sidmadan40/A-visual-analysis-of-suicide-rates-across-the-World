@@ -1,0 +1,2 @@
+# A-visual-analysis-of-suicide-rates-across-the-World
+In this work, we attempt to explore the possible con- nections between suicide rates and other common pa- rameters for various countries worldwide.  we also attempt to predict commonalities between countries based on numerous factors from the considered dataset with the aid of an unsupervised learning technique called Fuzzy C - Means clustering.
